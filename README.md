@@ -6,6 +6,10 @@ Este es un laboratorio del curso de fundamentos de devops
 
 ESte es un repositorio de prueba
 
+
+# Grupo 7 
+
+
 ## Grupo Sala 4
 
 Javier Teillier, Ariel Veliz, Daniel Saez, Julio Soto
@@ -16,3 +20,4 @@ Javier Teillier, Ariel Veliz, Daniel Saez, Julio Soto
 - Juan Barraza
 - Claudio Galleguillos
 - Rodrigo Navarro 
+
